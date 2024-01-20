@@ -1,0 +1,25 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24em;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 500;
+}
+
+h1{
+    font-style: italic;
+}
+
+.txt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
